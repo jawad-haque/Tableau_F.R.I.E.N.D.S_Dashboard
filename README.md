@@ -22,3 +22,5 @@ Here’s what I uncovered:
 👀🤪The One Where Everybody Finds Out (S5E14) hit a massive 9.7/10 rating—not shocking, right? 😉
 
 Now tell me, what’s YOUR all-time favorite episode? Let’s geek out over data and nostalgia.
+
+Tableau Link: https://public.tableau.com/views/FRIENDS_17481302875780/FRIENDS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
