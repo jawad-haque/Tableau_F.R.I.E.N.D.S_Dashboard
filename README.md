@@ -14,10 +14,6 @@ Here’s what I uncovered:
 📌 Which seasons had the highest-rated episodes? (Spoiler: Season 5 was 🔥)
 📌 How did audience votes fluctuate across seasons?
 📌 Which director contributed the most iconic moments? (David Schwimmer directed too? Who knew!)
-🎥 Directors: Season-wise contributions
-📅 Episodes by Season: Episode count trends
-⭐ Total Stars per Episode: Key actors' appearances
-👍 Audience Votes: Fan favorite episodes
 
 👀🤪The One Where Everybody Finds Out (S5E14) hit a massive 9.7/10 rating—not shocking, right? 😉
 
